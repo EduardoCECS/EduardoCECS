@@ -1,0 +1,7 @@
+- 👋 Hello, I'm @CaduEC
+- 👀 I am interested in the World of Information Technology
+- 🌱 I'm currently learning how to create websites
+- 💞️ I'm looking to collaborate in creating websites
+- 📫 How to contact me...
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'm addicted to games, I like this world of games
