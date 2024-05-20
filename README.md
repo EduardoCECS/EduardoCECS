@@ -1,7 +1,7 @@
-- 👋 Hello, I'm @CaduEC
-- 👀 I am interested in the World of Information Technology
-- 🌱 I'm currently learning how to create websites
-- 💞️ I'm looking to collaborate in creating websites
-- 📫 How to contact me...
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm addicted to games, I like this world of games
+- 👋 Olá, sou @CaduEC
+- 👀 Estou interessado no mundo da tecnologia da informação
+- 🌱 Atualmente estou aprendendo a criar sistemas
+- 💞️ Procuro colaborar na criação de sistemas
+- 📫Como entrar em contato comigo atraves do meu email carloscarvalhoxp@gmail.com
+- 😄 Pronomes: Ele/Seu
+- ⚡ Curiosidade: sou viciado em games, gosto desse mundo da tecnologia 
