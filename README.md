@@ -2,6 +2,6 @@
 - 👀 Estou interessado no mundo da tecnologia da informação
 - 🌱 Atualmente estou aprendendo a criar sistemas
 - 💞️ Procuro colaborar na criação de sistemas
-- 📫Como entrar em contato comigo atraves do meu email carloscarvalhoxp@gmail.com
+- 📫Como entrar em contato comigo através do meu email carloscarvalhoxp@gmail.com
 - 😄 Pronomes: Ele/Seu
 - ⚡ Curiosidade: sou viciado em games, gosto desse mundo da tecnologia 
