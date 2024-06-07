@@ -1,4 +1,4 @@
-- 👋 Olá, sou @CaduEC
+- 👋 Olá, sou @EduardoCECS
 - 👀 Estou interessado no mundo da tecnologia da informação
 - 🌱 Atualmente estou aprendendo a criar sistemas
 - 💞️ Procuro colaborar na criação de sistemas
