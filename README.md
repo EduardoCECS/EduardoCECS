@@ -4,4 +4,4 @@
 - 💞️ Procuro colaborar na criação de sistemas
 - 📫Como entrar em contato comigo através do meu email carloscarvalhoxp@gmail.com
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: sou viciado em games, gosto desse mundo da tecnologia 
+- ⚡ Curiosidade: sou viciado em games e gosto desse mundo da tecnologia 
