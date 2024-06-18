@@ -3,5 +3,5 @@
 - 🌱 Atualmente estou aprendendo a criar sistemas
 - 💞️ Procuro colaborar na criação de sistemas
 - 📫Como entrar em contato comigo através do meu email carloscarvalhoxp@gmail.com
-- 😄 Pronomes: Ele/Seu
+- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: sou viciado em games, gosto desse mundo da tecnologia 
