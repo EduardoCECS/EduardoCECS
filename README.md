@@ -1,7 +1,7 @@
 - 👋 Olá, sou @EduardoCECS
 - 👀 Estou interessado no mundo da tecnologia da informação
 - 🌱 Atualmente estou aprendendo a criar sistemas
-- 💞️ Procuro colaborar na criação de sistemas
+- 💞️ Procuro colaborar na criação de sistemas/sites, montagem e desmontagem de computador e instalação de software
 - 📫Como entrar em contato comigo através do meu email carloscarvalhoxp@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: sou viciado em games e gosto desse mundo da tecnologia 
